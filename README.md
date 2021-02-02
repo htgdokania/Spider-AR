@@ -1,1 +1,1 @@
-# Spider-AR
+Augment a spider at desired location after plane is detected
